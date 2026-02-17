@@ -1,0 +1,13 @@
+/* Custom Qalandar Button */
+
+.btn.btn-qalandar {
+    background-color: #000;      /* Pitch Black */
+    color: gold;                 /* Gold Text */
+    border: 2px solid gold;
+}
+
+/* Hover Effect */
+.btn.btn-qalandar:hover {
+    background-color: gold;
+    color: #000;
+}
